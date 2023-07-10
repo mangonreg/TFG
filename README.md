@@ -1,6 +1,6 @@
 # TFG
 
-El presente documento pretende dar una breve explicación sobre los algoritmos incluidos dentro del archivo: CuadradosLatinos.ipynb
+El presente documento pretende dar una breve explicación sobre los algoritmos incluidos dentro del archivo: Cuadrados_Latinos_MGR.ipynb
 Para poder abrir el archivo se recomienda el uso de SageMath 9.2 Notebook
 
 **********************
