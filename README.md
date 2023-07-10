@@ -1,7 +1,7 @@
-# TFG
+# Estudio de cuadrados latinos para su aplicación a un protocolo de compartición de secretos
 
 El presente documento pretende dar una breve explicación sobre los algoritmos incluidos dentro del archivo: Cuadrados_Latinos_MGR.ipynb
-Para poder abrir el archivo se recomienda el uso de SageMath 9.2 Notebook
+Para poder abrir el archivo se recomienda el uso de SageMath 9.2 Notebook.
 
 **********************
 * Objetivo Principal 
