@@ -4,7 +4,7 @@ El presente documento pretende dar una breve explicación sobre los algoritmos i
 Para poder abrir el archivo se recomienda el uso de SageMath 9.2 Notebook
 
 **********************
-* Objetivo Principal *
+* Objetivo Principal 
 **********************
 
 El objetivo principal de este trabajo consiste en implementar un algoritmo que permita obtener el secreto para un protocolo de
@@ -15,7 +15,7 @@ Como objetivo secundario se plantea realizar un estudio estadístico del tamaño
 latinos de orden seis con el fin de aplicarlos al sistema de compartición de secretos para mejorar su seguridad.
 
 ****************************
-* Algoritmos desarrollados *
+* Algoritmos desarrollados 
 ****************************
 
 Los algoritmos principales desarrollados son dos:
@@ -30,7 +30,7 @@ críticos se desean estudiar. El algoritimo retorna una gráfica donde se indica
 de manera estadística.
 
 *******************
-* Recomendaciones *
+* Recomendaciones 
 *******************
 
 A pesar de que el trabajo desarrollado quede resumido en estos dos algoritmos, estos se sostienen sobre diversas funciones auxiliares que recomendamos
